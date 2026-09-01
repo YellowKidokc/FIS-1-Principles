@@ -3,6 +3,10 @@
 > **Status:** conceptual architecture and decision record. This document deliberately
 > defines the system before selecting an implementation or workflow engine.
 
+The proposed policy/assurance layer that applies these principles to the three
+workbooks is documented in [POLICY_ASSURANCE_ARCHITECTURE.md](POLICY_ASSURANCE_ARCHITECTURE.md).
+It is an architectural crosswalk only; no detectors or mutation paths are implemented.
+
 ## Executive decision
 
 **BUILD A SIMPLIFIED VERSION.**
